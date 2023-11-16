@@ -1,0 +1,12 @@
+{
+  "name": "com.gamegc.guistylesdebug",
+  "displayName": "GUIStylesDebug",
+  "version": "1.0.0",
+  "description": "GUI Styles debug",
+  "author" : {
+    "name": "GameGC"
+  },
+  "dependencies": {
+    "com.unity.modules.imgui": "1.0.0"
+  }
+}
